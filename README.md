@@ -108,7 +108,7 @@ In bot settings.
 Contributions are welcome.
 
 ## Contact
-You can contact me [@odysseusmax](https://tx.me/odysseusmax).
+You can contact me [@JamesbonddOO7](https://t.me/JamesbonddOO7).
 
 ## Thanks
 Thanks to [Dan](https://github.com/delivrance "Dan") for his [Pyrogram](https://github.com/pyrogram/pyrogram "Pyrogram") library.
